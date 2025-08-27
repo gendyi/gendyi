@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mohamed Elgendy 👋
 
-<!--
-**gendyi/gendyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Data Analyst skilled in **Power BI, SQL, and Python**
+- Experienced in building KPI dashboards, automating reports, and delivering actionable insights
+- Currently based in **Saudi Arabia (Jeddah)** with a **transferable work visa**
+- Open to opportunities as **Data Analyst | BI Analyst | Power BI Developer**
 
-Here are some ideas to get you started:
+## Skills
+- **Power BI**: DAX, Power Query, Data Modeling, KPI Dashboards
+- **SQL**: Complex queries, joins, aggregations, data cleaning
+- **Python**: pandas, scikit-learn, matplotlib (data analysis & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+📊 Sales Insights Dashboard (Power BI, SQL)  
+🚚 Delivery Workforce Performance (Power BI)  
+⚽ Player Recommendation System (Python, ML)  
+💳 Fraud Detection with Ensemble Models (Python)
+
+## Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mohamed-elgedny-3282b5313/))  
+- 📧 melgendy56644@gmail.com
