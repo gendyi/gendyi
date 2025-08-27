@@ -18,5 +18,5 @@
 💳 Fraud Detection with Ensemble Models (Python)
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mohamed-elgedny-3282b5313/))  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-elgedny-3282b5313/)  
 - 📧 melgendy56644@gmail.com
